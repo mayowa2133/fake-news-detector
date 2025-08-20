@@ -1,4 +1,3 @@
-````markdown
 # AI Fake News Detector
 
 A tiny FastAPI app that scores pasted articles as **real news**, **fake news**, **misleading**, or **uncertain** using a zero-shot NLI model from Hugging Face. It includes publisher-agnostic boilerplate stripping, article-window selection, chunked ensembling, a document-type guard, optional priors (bylines/timestamps & attribution verbs), quick token-level explanations, and a SQLite feedback store.
@@ -248,4 +247,4 @@ MIT (or add your preferred license).
 * [PyTorch](https://pytorch.org/)
 
 ```
-```
+
