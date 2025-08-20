@@ -2,7 +2,7 @@
 
 A FastAPI application that analyzes articles to detect fake news, real news, or misleading content using a zero-shot model from Hugging Face.
 
-> ⚠️ **Demo only** — do not rely on this as your sole source of truth.
+**Demo only** — do not rely on this as your sole source of truth.
 
 ---
 
