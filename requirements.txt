@@ -1,0 +1,6 @@
+fastapi>=0.111
+uvicorn[standard]>=0.29
+transformers>=4.42
+safetensors>=0.4.3
+# One of torch or tensorflow is needed by transformers pipelines; torch is the common path.
+torch>=2.2
